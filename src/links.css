@@ -1,0 +1,52 @@
+.links_main {
+  padding: 44px;
+  margin-top: 60px;
+}
+
+.links_header {
+  text-align: center;
+}
+
+.links_h1 {
+  line-height: 48px;
+  font-size: 40px;
+  color: rgb(15, 50, 86);
+  font-weight: 520;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.links_p {
+  margin-top: 14px;
+  line-height: 28px;
+  font-size: 20px;
+  color: rgb(4, 49, 105);
+  opacity: 0.7;
+  font-weight: 400;
+  margin-bottom: 60px;
+}
+
+.links_boxes {
+  width: 85%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.links {
+  text-align: center;
+}
+
+.hr_lines {
+  height: 1px;
+  margin-top: 40px;
+  width: 13%;
+  background-color: rgb(186, 197, 212);
+}
+
+.links_h2 {
+  margin: 30px 0px 20px;
+  font-size: 20px;
+  color: rgb(35, 49, 67);
+  font-weight: bold;
+  font-family: sans-serif;
+}

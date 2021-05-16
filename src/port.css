@@ -1,0 +1,17 @@
+.main_heading {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.port_h1 {
+  margin: 0px 0px 10px;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(15, 50, 86);
+  font-family: sans-serif;
+}
+
+.port_p {
+  color: rgb(144, 161, 184);
+  font-size: 20px;
+}

@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_lower_ban {
+  margin-top: 20px;
+  width: 100%;
+  background-color: rgb(233, 246, 255);
+  height: 460px;
+  overflow: hidden;
+}
+
+.lower_ban_cov {
+  max-width: 90%;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lower_left_title {
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen;
+  line-height: 1.3;
+  color: rgb(5, 15, 25);
+  font-size: 42px;
+  font-weight: 500;
+}
+
+.lower_left_para {
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 450;
+  color: rgb(5, 15, 25);
+}
+
+.lower_left_btn {
+  margin: 0px;
+  border-radius: 4px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 14px 20px;
+  font-size: 18px;
+  margin-top: 10px;
+  background-color: rgb(22, 82, 240);
+  border: none;
+}
+
+.lower_left_btn:hover {
+  background-color: rgb(10, 70, 228);
+}

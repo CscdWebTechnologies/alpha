@@ -1,0 +1,84 @@
+.jumpstart_main {
+  margin-top: 40px;
+}
+
+.jumpstart_wrapper {
+  max-width: 85%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
+.jumpstart_btc_arrow {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  flex-direction: row;
+  color: rgb(22, 82, 240);
+  font-weight: 600;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.jumpstart_btc_arrow:hover {
+  text-decoration: underline;
+}
+
+.jumpstart_btc_arrow > * {
+  margin-right: 10px;
+}
+
+.jumpstart_title {
+  font-size: 62px;
+  font-weight: bold;
+  line-height: 1.15;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  color: rgb(5, 15, 25);
+}
+
+.jumpstart_para {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 32px;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+form {
+  display: flex;
+}
+
+input[type="email"] {
+  padding: 24px;
+  border: 1px solid rgb(236, 239, 241);
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(5, 15, 25);
+}
+
+input[type="submit"] {
+  background-color: rgb(22, 82, 240);
+  padding: 24px 42px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 4px;
+  color: rgb(255, 255, 255);
+  margin-left: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.terms__applied {
+  font-size: 9px;
+  margin-top: 12px;
+  text-decoration: underline;
+  color: #0667d0;
+}
