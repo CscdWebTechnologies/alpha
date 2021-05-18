@@ -1,0 +1,69 @@
+.options_main_heading {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.options_h1 {
+  margin: 0px 0px 40px;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(15, 50, 86);
+  font-family: sans-serif;
+}
+
+.options_p {
+  color: rgb(144, 161, 184);
+  font-size: 20px;
+}
+
+.options_holder {
+  width: 93%;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.options_right {
+  max-width: 700px;
+}
+
+.options_image {
+  width: 100%;
+}
+
+.options_item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  margin-right: 30px;
+}
+.options_icon {
+  height: 70px;
+  width: 70px;
+  margin-right: 32px;
+  justify-content: center;
+  box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
+  border-radius: 50%;
+}
+
+.options_h3 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-weight: 550;
+}
+
+.options_p {
+  margin: 0px;
+  line-height: 1;
+  color: rgb(131, 143, 160);
+}
+
+.ios_link,
+.android_link {
+  color: rgb(22, 82, 240);
+}

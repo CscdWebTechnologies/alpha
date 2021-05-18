@@ -7,6 +7,7 @@ import Blueban from './Blueban';
 import Links from './Links';
 import Sbanner from './Sbanner';
 import Myfoot from './Myfoot';
+import Options from './Options';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <div>
       <Heading />
       <Jumpstart />
+      <Options/>
       <Port />
       <Reasons />
       <Blueban />
