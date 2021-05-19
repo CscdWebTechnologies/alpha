@@ -1,5 +1,5 @@
 import React from "react";
-import "./port.css";
+import "../asset/style/port.css";
 
 export const Port = () => {
   return (

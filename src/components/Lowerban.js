@@ -1,5 +1,5 @@
 import React from "react";
-import "./Lowerban.css";
+import "./asset/Lowerban.css";
 
 export const lowerban = () => {
   return (

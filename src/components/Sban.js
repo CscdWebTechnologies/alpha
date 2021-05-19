@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sban.css";
+import "./asset/style/Sban.css";
 
 export const sban = () => {
   return (

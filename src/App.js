@@ -1,13 +1,14 @@
 import React from "react";
-import Heading from './Heading';
-import Jumpstart from './Jumpstart'; 
-import Port from './Port';
-import Reasons from './Reasons';
-import Blueban from './Blueban';
-import Links from './Links';
-import Sbanner from './Sbanner';
-import Myfoot from './Myfoot';
-import Options from './Options';
+import Heading from './components/Heading';
+import Jumpstart from './components/Jumpstart'; 
+import Port from './components/Port';
+import Reasons from './components/Reasons';
+import Blueban from './components/Blueban';
+import Links from './components/Links';
+import Sbanner from './components/Sbanner';
+import Myfoot from './components/Myfoot';
+import Options from './components/Options';
+import Table from "./components/Table";
 
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
     <div>
       <Heading />
       <Jumpstart />
-      <Options/>
+       <Table />
+      <Options />
       <Port />
       <Reasons />
       <Blueban />

@@ -1,5 +1,5 @@
 import React from "react";
-import './Heading.css';
+import '../asset/style/Heading.css';
 export const Heading=()=>{
    
 

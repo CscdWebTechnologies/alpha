@@ -1,4 +1,4 @@
-import './reasons.css'
+import '../asset/style/reasons.css'
 
 const Reasons = () => {
   return (

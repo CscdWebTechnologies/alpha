@@ -1,9 +1,12 @@
 import React from "react";
-import "./options.css";
-import mobile from "./mobile.svg";
-import vault from "./vault.svg";
-import graph from "./graph_icon.svg";
-import calender from "./calendar.svg";
+import "../asset/style/options.css";
+import mobile from '../asset/image/mobile.svg';
+import vault from '../asset/image/vault.svg';
+import graph from "../asset/image/graph.svg";
+import calender from "../asset/image/calendar.svg";
+
+
+
 
 export const Options = () => {
   return (

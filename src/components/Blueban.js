@@ -1,5 +1,5 @@
 import React from "react";
-import "./blueban.css";
+import "../asset/style/blueban.css";
 
 export const Blueban = () => {
   return (

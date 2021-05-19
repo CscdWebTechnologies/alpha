@@ -1,5 +1,5 @@
 import React from "react";
-import "./myfoot.css";
+import "../asset/style/myfoot.css";
 
 export const Myfoot = () => {
   return (

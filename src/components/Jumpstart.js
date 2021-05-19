@@ -1,5 +1,5 @@
 import React from "react";
-import "./jumpstart.css";
+import "../asset/style/jumpstart.css";
 import JumpstartImage from "./JumpstartImage";
 
 export const Jumpstart = () => {

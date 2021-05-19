@@ -1,5 +1,5 @@
 import React from "react";
-import "./sbanner.css";
+import "../asset/style/sbanner.css";
 
 export const Sbanner = () => {
   return (
